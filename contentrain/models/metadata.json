@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Section",
+    "modelId": "section",
+    "localization": false,
+    "type": "MDX",
+    "createdBy": "user",
+    "isServerless": false
+  }
+]
